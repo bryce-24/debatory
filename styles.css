@@ -10,7 +10,7 @@ body {
 }
 
 img {
-    width: 500px;
-    height: 281.25px;
+    max-width: 750px;
+    max-height: 421.875px;
     object-fit: cover;
 }
